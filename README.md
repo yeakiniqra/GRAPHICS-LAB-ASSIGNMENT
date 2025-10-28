@@ -33,7 +33,6 @@ Extension of Bresenham's algorithm to draw lines with variable thickness using 8
 ---
 
 ### Task #02: Concentric Circles with Color Gradient
-**File:** `task2_concentric_circles.c`
 
 **Description:**
 Implementation of the Midpoint Circle Drawing Algorithm to create multiple concentric circles with increasing radius and thickness. Features a smooth color gradient transition from innermost to outermost circle.
@@ -44,6 +43,23 @@ Implementation of the Midpoint Circle Drawing Algorithm to create multiple conce
 - Increasing thickness with each circle
 - Smooth color gradient (red to blue)
 - Efficient drawing without trigonometric functions
+
+---
+
+### Task #03: Liang-Barsky Line Clipping Algorithm
+
+**Description:**
+Implementation of the Liang-Barsky Line Clipping Algorithm to clip multiple line segments against a rectangular clipping window. Handles all clipping cases including fully inside, fully outside, and partially intersecting lines.
+
+**Features:**
+- Parametric line clipping approach
+- Efficient clipping using parametric equations
+- Handles all edge cases (inside, outside, partial)
+- Visual distinction between original and clipped lines
+- Displays clipping window boundary
+- Tests with 5 sample lines covering different scenarios
+
+```
 
 ```
 ## Prerequisites
