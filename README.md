@@ -60,8 +60,6 @@ Implementation of the Liang-Barsky Line Clipping Algorithm to clip multiple line
 - Tests with 5 sample lines covering different scenarios
 
 ```
-
-```
 ## Prerequisites
 
 ### Software Requirements:
